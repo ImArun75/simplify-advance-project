@@ -39,6 +39,4 @@ Follow these steps to get a copy of the project up and running on your local mac
 
 The application will open in your browser at `http://localhost:3000`.
 
-## Demo
 
-A live demo of this project is available [here](user-profiles-basic-9p62f3q0z-arun-reddys-projects.vercel.app).
