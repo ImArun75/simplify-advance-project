@@ -1,8 +1,3 @@
-### Assignment 2 (Advanced)**
-
-This README is for the more complex version of the app, which uses Ant Design and includes advanced features like a responsive grid and a modal for editing user data.
-
-```markdown
 # User Profiles App (Advanced)
 
 This is the advanced version of the user profiles application. It builds upon the first assignment by introducing a more robust UI library (Ant Design), a responsive layout, and a functional modal for editing user information.
@@ -16,11 +11,15 @@ This is the advanced version of the user profiles application. It builds upon th
 - **"Lifting State Up"**: The modal's form data is managed by the parent `App` component, demonstrating how to update state across multiple components.
 - **Delete Functionality**: Includes a "Delete" button to remove a user from the list.
 
+---
+
 ## Technologies Used
 
 - **ReactJS**: For building the user interface.
 - **Ant Design**: A powerful UI library for a polished, responsive user interface.
 - **JavaScript (ES6+)**: For all application logic.
+
+---
 
 ## How to Run Locally
 
